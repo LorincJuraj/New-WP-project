@@ -2,7 +2,7 @@
 My bash script to create new WP project on my localhost
 
 ## Why?
-Every WordPress developer need to create blank WordPress project very often and it is boring task doing the same thiks again and again.
+Every WordPress developer needs to create a blank WordPress project every now and then and it is boring task doing the same thigs all over again so I wrote a script which can help me do it easily within 2-3 minutes.
 
 ## What is it doing?
 * creates new folder for WordPress installation
@@ -21,7 +21,7 @@ Every WordPress developer need to create blank WordPress project very often and 
 * Apache with mysql
 
 ## Disclaimer
-Please be careful with this script. It is intended just for development enviroment. Use at your own risk. Feel free to modify to your needs.  
+Please be careful with this script. It is intended just for development environment. Use at your own risk. Feel free to modify to your needs.  
 
 
 
